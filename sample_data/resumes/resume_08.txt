@@ -1,0 +1,17 @@
+Emily Chen
+emily.chen@email.com
+
+Summary
+Data analyst with 2 years experience in reporting and dashboards.
+
+Skills
+Excel, SQL, Tableau, Power BI, Python (pandas), Communication
+
+Experience
+Data Analyst, RetailMetrics (2023 - Present)
+- Built Tableau dashboards for merchandising team
+- Wrote SQL queries against PostgreSQL data warehouse
+- Automated weekly reports using Python and pandas
+
+Education
+Bachelor's in Statistics, University of Toronto, 2022

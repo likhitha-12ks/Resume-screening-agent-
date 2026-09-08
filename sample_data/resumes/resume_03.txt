@@ -1,0 +1,20 @@
+Wei Zhang
+wei.zhang@email.com | Shanghai, China
+
+Summary
+Machine learning engineer with 4 years experience, strong Python
+background, some backend API exposure.
+
+Skills
+Python, TensorFlow, PyTorch, scikit-learn, pandas, numpy, SQL,
+Docker, AWS, machine learning, deep learning, NLP
+
+Experience
+ML Engineer, VisionAI Labs (2020 - Present)
+- Trained and deployed computer vision models using PyTorch on AWS
+- Built Flask endpoints to serve ML model predictions
+- Used Docker to containerize model-serving services
+- Collaborated with backend team on REST API design for model integration
+
+Education
+Master's in Computer Science, Fudan University, 2020

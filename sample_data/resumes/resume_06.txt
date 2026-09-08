@@ -1,0 +1,16 @@
+Aisha Bello
+aisha.bello@email.com | Nairobi, Kenya
+
+Summary
+Recent computer science graduate seeking entry-level backend role.
+
+Skills
+Python, Flask, SQL, Git, HTML, CSS, C++
+
+Experience
+Software Engineering Intern, TechHub Africa (Summer 2024)
+- Built internal Flask tools for the data team
+- Wrote SQL queries for reporting dashboards
+
+Education
+B.S. in Computer Science, University of Nairobi, 2024 (expected)

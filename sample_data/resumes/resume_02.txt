@@ -1,0 +1,18 @@
+Daniel Okafor
+daniel.okafor@email.com
+
+Summary
+Full-stack developer transitioning into backend-focused roles. 2 years
+of experience with JavaScript and Node.js, currently learning Python.
+
+Skills
+JavaScript, Node.js, React, MySQL, Git, HTML, CSS, Agile
+
+Experience
+Junior Developer, WebCraft Studio (2023 - Present)
+- Built React front-end components for e-commerce clients
+- Wrote Node.js/Express APIs backed by MySQL
+- Participated in Agile sprint ceremonies
+
+Education
+Bachelor's degree in Information Technology, Lagos State University, 2022

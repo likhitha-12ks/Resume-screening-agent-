@@ -1,0 +1,21 @@
+Carlos Mendes
+carlos.mendes@email.com
+
+Summary
+Backend engineer with 3 years experience, strong Python and AWS
+background, less exposure to Kubernetes.
+
+Skills
+Python, Django, PostgreSQL, REST API, AWS, Git, CI/CD, Agile, pandas
+
+Experience
+Backend Engineer, FinEdge (2022 - Present)
+- Built REST APIs with Django REST Framework backed by PostgreSQL
+- Deployed services to AWS EC2 and set up GitHub Actions CI/CD pipelines
+- Wrote data validation pipelines in pandas for financial reporting
+
+Junior Developer, LocalTech (2021 - 2022)
+- Assisted with SQL query optimization and bug fixes
+
+Education
+B.S. in Computer Engineering, University of Sao Paulo, 2021

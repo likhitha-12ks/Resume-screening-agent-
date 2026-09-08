@@ -1,0 +1,30 @@
+Job Title: Backend Software Engineer (Python)
+
+About the Role:
+We are looking for a Backend Software Engineer to join our platform team.
+You will design, build, and maintain scalable APIs and data pipelines that
+power our core product.
+
+Responsibilities:
+- Design and implement REST APIs using Python (Flask or FastAPI)
+- Build and optimize SQL and NoSQL data models (PostgreSQL, MongoDB, Redis)
+- Deploy and monitor services on AWS using Docker and Kubernetes
+- Write clean, tested, maintainable code and participate in code review
+- Collaborate with data science team on machine learning model integration
+- Set up CI/CD pipelines and improve deployment reliability
+
+Requirements:
+Skills: Python, SQL, PostgreSQL, REST API, Docker, Kubernetes, AWS, Git, CI/CD
+Preferred: FastAPI, Flask, MongoDB, Redis, machine learning, pandas, agile
+
+Qualifications:
+- Bachelor's degree in Computer Science or related field
+- 3+ years of professional software engineering experience
+- Strong understanding of data structures, algorithms, and system design
+- Experience working in an Agile/Scrum environment
+- Excellent communication skills and ability to work cross-functionally
+
+Nice to have:
+- Experience with Terraform or other infrastructure-as-code tools
+- Exposure to NLP or computer vision projects
+- Prior experience mentoring junior engineers
